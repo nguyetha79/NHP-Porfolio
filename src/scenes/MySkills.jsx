@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
+import skillsImg from "../assets/skills-image.png";
 import LineGradient from "../components/LineGradient";
 import useMediaQuery from "../hooks/useMediaQuery";
-import skillsImg from "../assets/skills-image.png";
 
 const MySkills = () => {
   const isAboveMediumScreens = useMediaQuery("(min-width:1060px)");

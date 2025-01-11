@@ -1,9 +1,9 @@
 import React from "react";
 
-import linkedin from "../assets/linkedin.png"
-import github from "../assets/github.png"
-import xing from "../assets/xing.png"
-import behance from "../assets/behance.png"
+import behance from "../assets/behance.png";
+import github from "../assets/github.png";
+import linkedin from "../assets/linkedin.png";
+import xing from "../assets/xing.png";
 const SocialMediaIcons = () => {
   return (
     <div className="flex justify-center md:justify-start my-10 gap-7">
